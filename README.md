@@ -1,7 +1,3 @@
-### Hi there, 
+### Hi Guys, Welcome To My Github 👋
 
-Welcome To My Github 👋
-
-🔭 I’m currently working on ...
-
-🌱 I’m currently learning ...
+#### My name is Wangbo, a Front-end developer!
