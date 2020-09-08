@@ -6,6 +6,5 @@
 |  ---- | ----  |
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=BoWang816&show_icons=true&title_color=46BAEB&icon_color=46BAEB" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoWang816&layout=compact&show_owner=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoWang816&layout=compact&show_owner=true" />
 
