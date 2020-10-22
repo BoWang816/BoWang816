@@ -1,6 +1,6 @@
 ### Hi Guys, Welcome To My Github 👋
 
-#### My name is Wangbo, a Front-end developer!    
+#### I'am 恪晨, a Front-end developer!    
 
 📫 Ping me by [Email](mailto:bo.wang1016@outlook.com)
 
