@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm 恪晨</h1> 
 
-<h3 align="center"> Welcome To My Github 👋  </h3> ![Profile views](https://gpvc.arturio.dev/BoWang816)
+<h3 align="center"> Welcome To My Github 👋  </h3>
 
 <h3 align="center">I am a passionate frontend developer from China</h3>
 
