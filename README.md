@@ -10,4 +10,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoWang816&layout=compact&show_owner=true" />
 
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=BoWang816&theme=flat&column=3&margin-w=10" alt="trophy" width="100%" align="right"/>
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=BoWang816&theme=flat&column=6&margin-w=20" alt="trophy" width="50%"/>
