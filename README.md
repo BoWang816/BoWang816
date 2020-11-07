@@ -1,10 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm 恪晨</h1>
+<h1 align="center">Hi 👋, I'm 恪晨</h1> ![Profile views](https://gpvc.arturio.dev/BoWang816)
 
-<h3 align="center"> Hi Guys, Welcome To My Github 👋 ![Profile views](https://gpvc.arturio.dev/BoWang816)</h3>
+<h3 align="center"> Welcome To My Github 👋  </h3>
 
-<h3 align="center">A passionate frontend developer from China</h3>
-
+<h3 align="center">I am a passionate frontend developer from China</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bowang816&label=Profile%20views&color=0e75b6&style=flat" alt="bowang816" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bowang816" alt="bowang816" /></a> </p>
