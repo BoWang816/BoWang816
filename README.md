@@ -9,5 +9,5 @@
 [简书](https://www.jianshu.com/u/66b577b7d7bb) 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoWang816&layout=compact&show_owner=true" />
-
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=BoWang816&theme=flat&column=6&margin-w=20" alt="trophy" width="50%"/>
+<br/><br/>
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=BoWang816&theme=flat&column=6&margin-w=20" alt="trophy" width="90%"/>
