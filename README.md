@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bowang816&label=Profile%20views&color=0e75b6&style=flat" alt="bowang816" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bowang816" alt="bowang816" /></a> </p>
+<p align="left"> <a href="https://github.com/BoWang816"><img src="https://github-profile-trophy.vercel.app/?username=bowang816" alt="bowang816" /></a> </p>
 
 - 🔭 I’m currently working on [Weekly](https://github.com/BoWang816/Weekly)
 
