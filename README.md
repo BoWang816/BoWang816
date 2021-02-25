@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **React, Webpack, Serverless, ect...**
 
-- 👯 I’m looking to collaborate on [GridManager](https://github.com/baukh789/GridManager)
-
 - 📝 I regulary write articles on [https://blog.wangboweb.site](https://blog.wangboweb.site)
 
 - 📫 How to reach me **bo.wang1016@outlook.com**
