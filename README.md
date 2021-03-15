@@ -32,5 +32,5 @@
 <div style="display: inline">
   <img src="https://github-readme-stats.vercel.app/api?username=bowang816&show_icons=true" width="345" height="150" align="center"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bowang816&layout=compact" width="340" height="150" align="center"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BoWang816&layout=compact" width="690"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BoWang816&layout=compact&custom_title=WakaTime%20Last%207%20Days" height="135" align="center"/>
 </div>
