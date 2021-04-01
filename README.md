@@ -9,7 +9,7 @@
 
 - 📝 I regulary write articles on [https://blog.wangboweb.site](https://blog.wangboweb.site)
 - 📫 How to reach me **bo.wang1016@outlook.com**
-- 🏢 I'm currently working at **shuyun**
+- 🏢 I'm currently working at **China Unicom Software Research Institute**
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
