@@ -35,3 +35,5 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BoWang816&layout=compact&custom_title=WakaTime%20Last%207%20Days" height="120" align="center"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bowang816&layout=compact" height="120" align="center"/>
 </div>
+
+<img src="https://github.com/BoWang816/Weekly/blob/output/github-snake.svg" height="160" align="center"/>
