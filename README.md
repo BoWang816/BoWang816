@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bo.wang1016@outlook.com**
 
-- 🏢 I'm currently working at **China Unicom Software Research Institute**
+- 🏢 I'm currently working at **ChinaUnicom Software**
 
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
