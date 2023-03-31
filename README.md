@@ -13,9 +13,9 @@
 
 - 🏢 I'm currently working at **ChinaUnicom Software**
 
-<img src="https://github-readme-stats.vercel.app/api?username=bowang816&show_icons=true&theme=tokyonight" align="center"/>
 
 <div style="display:flex; margin: 0px; padding: 0px">
+ <img src="https://github-readme-stats.vercel.app/api?username=bowang816&show_icons=true&theme=tokyonight" height="150"/>
 <img src="https://stats.justsong.cn/api/github?username=bowang816&theme=dark&lang=zh-CN" height="180"/>
 <img src="https://stats.justsong.cn/api/zhihu?username=ke-chen-6-83&theme=dark&lang=zh-CN" height="180"/>
 <img src="https://stats.justsong.cn/api/juejin?id=2049145403882430&theme=dark&lang=zh-CN" height="180"/>
