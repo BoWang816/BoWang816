@@ -13,29 +13,16 @@
 
 - 🏢 I'm currently working at **ChinaUnicom Software**
 
-- 🚀 I use daily:
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-  ![Next.js](https://img.shields.io/badge/next.js-red?style=plastic&logo=appveyor)
-  ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
+<img src="https://github-readme-stats.vercel.app/api?username=bowang816&show_icons=true&theme=tokyonight" align="center"/>
 
-- 💻 I work using:
-  ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-  
-- 🌱 Learning all about:
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
-  ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) 
-  ![Next.js](https://img.shields.io/badge/-Next.js-black?style=plastic&logo=Next.js)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
- 
-<div style="display: inline">
-  <img src="https://github-readme-stats.vercel.app/api?username=bowang816&show_icons=true&theme=tokyonight" height="150" align="center"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bowang816&layout=compact&theme=dracula" height="150" align="center"/>
+<div style="display:flex; margin: 0px; padding: 0px">
+<img src="https://stats.justsong.cn/api/github?username=bowang816&theme=dark&lang=zh-CN" height="180"/>
+<img src="https://stats.justsong.cn/api/zhihu?username=ke-chen-6-83&theme=dark&lang=zh-CN" height="180"/>
+<img src="https://stats.justsong.cn/api/juejin?id=2049145403882430&theme=dark&lang=zh-CN" height="180"/>
 </div>
 
-<img src="https://github.com/BoWang816/Weekly/blob/output/github-snake.svg" height="160" align="center"/>
+ 
+
+
+[![恪晨's github activity graph](https://github.wwangpw.repl.co/graph?username=bowang816&bg_color=211c1f&color=6cf033&line=46c874&point=e70d65&area=true&hide_border=true)](https://blog.wangboweb.site)
+
