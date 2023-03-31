@@ -15,14 +15,13 @@
 
 
 <div style="display:flex; margin: 0px; padding: 0px">
- <img src="https://github-readme-stats.vercel.app/api?username=bowang816&show_icons=true&theme=tokyonight" height="150"/>
 <img src="https://stats.justsong.cn/api/github?username=bowang816&theme=dark&lang=zh-CN" height="180"/>
 <img src="https://stats.justsong.cn/api/zhihu?username=ke-chen-6-83&theme=dark&lang=zh-CN" height="180"/>
 <img src="https://stats.justsong.cn/api/juejin?id=2049145403882430&theme=dark&lang=zh-CN" height="180"/>
 </div>
 
- 
+ <div style="display:flex; margin: 0px; padding: 20px">
 
-
-[![恪晨's github activity graph](https://github.wwangpw.repl.co/graph?username=bowang816&bg_color=211c1f&color=6cf033&line=46c874&point=e70d65&area=true&hide_border=true)](https://blog.wangboweb.site)
-
+<img src="https://github-readme-stats.vercel.app/api?username=bowang816&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github.wwangpw.repl.co/graph?username=bowang816&bg_color=211c1f&color=6cf033&line=46c874&point=e70d65&area=true&hide_border=true" height="180"/>
+</div>
